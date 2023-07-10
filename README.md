@@ -13,3 +13,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkb21&show_icons=true&locale=en&layout=compact" alt="sumitkb21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkb21&" alt="sumitkb21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalg21&show_icons=true&locale=en" alt="ujjwalg21" /></p>
