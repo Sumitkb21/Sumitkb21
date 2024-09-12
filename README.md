@@ -72,7 +72,8 @@
   
   <!-- Added Icons -->
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws lambda" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/e7a96e1d-8023-4f9a-85ac-d22d7fc9380c" alt="aws lambda" width="40" height="40"/> 
+
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.brandfetch.io/id2alue-rx/w/394/h/80/theme/light/logo.png?k=bfHSJFAPEG" alt="nextjs" width="40" height="15">
@@ -86,9 +87,6 @@
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/> 
-  </a> 
-  <a href="https://get.webgl.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/webgl/webgl-icon.svg" alt="webgl" width="40" height="40"/> 
   </a> 
 </p>
 
