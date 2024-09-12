@@ -75,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws lambda" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);">
+    <img src="https://cdn.brandfetch.io/id2alue-rx/w/394/h/80/theme/light/logo.png?k=bfHSJFAPEG" alt="nextjs" width="40" height="40">
  
   </a> 
   <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"> 
