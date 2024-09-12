@@ -1,4 +1,4 @@
-# Sumit
+# Sumit Kumar Bairwa
 ## Tech Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
